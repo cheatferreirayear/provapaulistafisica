@@ -19,7 +19,7 @@ section {
 }
 
 section details summary {
-    background-color: tomato;
+    background-color: lightgreen;
     padding: 2%;
     border-bottom: 2px solid #282828;
     color: #fff;
